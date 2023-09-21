@@ -1,3 +1,5 @@
+### This plugin is obsolete and only saved for sentimmental reasons!
+
 # ﻿=== pagebar
 
 * Contributors: Lutz Schroeer
