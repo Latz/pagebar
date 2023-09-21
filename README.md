@@ -1,6 +1,6 @@
-### This plugin is obsolete and only saved for sentimmental reasons!
+# This plugin is obsolete and only saved for sentimmental reasons!
 
-# ﻿=== pagebar
+## ﻿=== pagebar
 
 * Contributors: Lutz Schroeer
 * Donate link: http://elektroelch.de
